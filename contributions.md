@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| March 19   | https://www.openstreetmap.org/changeset/133878687    | OpenStreetMap    |   I added a local famous chinese store in my area.    |
 |     |     |     |      |
 |     |     |     |      |
