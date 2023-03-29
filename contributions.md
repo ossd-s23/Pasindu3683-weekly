@@ -23,5 +23,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | March 19   | https://www.openstreetmap.org/changeset/133878687    | OpenStreetMap    |   I added a local famous chinese store in my area.    |
-|     |     |     |      |
+| March 29   | https://www.openstreetmap.org/changeset/134276059    | OpenStreetMap    |   I added a local gym
 |     |     |     |      |
