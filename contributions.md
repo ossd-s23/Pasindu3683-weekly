@@ -24,4 +24,4 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | March 19   | https://www.openstreetmap.org/changeset/133878687    | OpenStreetMap    |   I added a local famous chinese store in my area.    |
 | March 29   | https://www.openstreetmap.org/changeset/134276059    | OpenStreetMap    |   I added a local gym
-| April 16   | https://en.wikipedia.org/w/index.php?title=Colonia_High_School&diff=prev&oldid=1150265967&diffmode=source    | Wikipedia    | I updated information about adminstration of a local high school.     |
+| April 16   | https://en.wikipedia.org/w/index.php?title=Colonia_High_School&diff=prev&oldid=1150265967&diffmode=source    | Wikipedia    | I updated invalid information about the adminstration of a local high school.     |
