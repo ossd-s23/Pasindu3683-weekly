@@ -26,4 +26,4 @@ Replace the first row with your own contribution.
 | March 29   | https://www.openstreetmap.org/changeset/134276059    | OpenStreetMap    |   I added a local gym
 | April 16   | https://en.wikipedia.org/w/index.php?title=Colonia_High_School&diff=prev&oldid=1150265967&diffmode=source    | Wikipedia    | I updated invalid information about the adminstration of a local high school.     |
 | April 17 | https://github.com/coderQuad/New-Grad-Positions-2023/pull/618 | Github | Notified of a broken link (closed job application) |
-| April 24 | https://github.com/uwcsc/2023-internships/pull/36  | Github  | Added a resource to interview prep list (Grind75) |
+| April 23 | https://github.com/uwcsc/2023-internships/pull/36  | Github  | Added a resource to interview prep list (Grind75) |
